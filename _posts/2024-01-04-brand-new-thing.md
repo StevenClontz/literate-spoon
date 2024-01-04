@@ -9,3 +9,5 @@ tags:
 ---
 
 words
+
+![number 1 handwritten](../assets/1.png)
